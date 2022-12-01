@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <form method="post" action="xuly.aspx">
+        <label for="id">Nhập id: </label>
+        <input type="text" name="id" id="id" value="" placeholder="Mã id"><br /><br />
+        <label for="fullname">Nhập họ tên: </label>
+        <input type="text" name="fullname" id="fullname" value="" placeholder="Họ tên"><br /><br />
+        <p class="error-name">
+
+        </p>
+        <label for="dateBirth">Nhập năm sinh: </label>
+        <input type="number" name="datebirth" id="dateBirth" min="1900" max="2022"><br /><br />
+        <p class="error-date">
+
+        </p>
+        <button type="submit" name="submit" value="submit" id="submit">Submit</button>
+    </form>
+    <script>
+        var id = document.getElementById('id');
+        var fullname = document.getElementById('fullname');
+        var dateBirth = document.getElementById('dateBirth');
+        var submit = document.getElementById('submit');
+        var errorName = document.getElementsByClassName('error-name');
+        var errorDate = document.getElementsByClassName('error-date');
+        submit.addEventListener('submit', () => {
+            if (fullname.value == '' || id.value == '' || dateBirth.value == '') {
+                id.focus();
+                errorName.innerHTML = 'Sai';
+            }
+            
+        })
+
+    </script>
+</body>
+</html>

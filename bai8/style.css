@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 24px;
+    position: relative;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid #222;
+}
+
+.form-box {
+    border: 1px solid #343;
+    max-width: 400px;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 300px;
+    right: 380px;
+    padding: 24px;
+}
+
+.name,
+.hang,
+.date,
+.price,
+.add,
+.cancel {
+    margin: 6px;
+}
+
+.button {
+    display: flex;
+    justify-content: right;
+}
+
+.add:hover,
+.cancel:hover {
+    cursor: pointer;
+}

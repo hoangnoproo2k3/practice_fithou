@@ -1,0 +1,236 @@
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\web11.dll.config
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\web11.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\web11.pdb
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csc.exe
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csc.exe.config
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csc.rsp
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csi.exe
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csi.exe.config
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csi.rsp
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.Managed.Core.targets
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.AppContext.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Collections.Immutable.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Console.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Globalization.Calendars.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.IO.Compression.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.IO.FileSystem.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Net.Http.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Net.Sockets.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Reflection.Metadata.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.ValueTuple.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Xml.XmlDocument.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Xml.XPath.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\vbc.exe
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\vbc.exe.config
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\vbc.rsp
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\VBCSCompiler.exe
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\VBCSCompiler.exe.config
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.csproj.AssemblyReference.cache
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.csproj.CoreCompileInputs.cache
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.csproj.CopyComplete
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.dll
+D:\W HTML\zLapTrinhWeb\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.pdb
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\web11.dll.config
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\web11.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\web11.pdb
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csc.exe
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csc.exe.config
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csc.rsp
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csi.exe
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csi.exe.config
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\csi.rsp
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.AppContext.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Collections.Immutable.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Console.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Globalization.Calendars.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.IO.Compression.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.IO.FileSystem.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Net.Http.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Net.Sockets.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Reflection.Metadata.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.ValueTuple.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Xml.XPath.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\vbc.exe
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\vbc.exe.config
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\vbc.rsp
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\VBCSCompiler.exe
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\roslyn\VBCSCompiler.exe.config
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.csproj.AssemblyReference.cache
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.csproj.CoreCompileInputs.cache
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.csproj.CopyComplete
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.dll
+D:\LTW\ZThucHanh\buoi6\web11\web11\web11\obj\Debug\web11.pdb
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\web11.dll.config
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\web11.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\web11.pdb
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\csc.exe
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\csc.exe.config
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\csc.rsp
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\csi.exe
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\csi.exe.config
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\csi.rsp
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Console.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\vbc.exe
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\vbc.exe.config
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\vbc.rsp
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\obj\Debug\web11.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\obj\Debug\web11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\obj\Debug\web11.csproj.CopyComplete
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\obj\Debug\web11.dll
+C:\Users\admin\Downloads\BTH\buoi6\web11\web11\web11\obj\Debug\web11.pdb
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\web11.dll.config
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\web11.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\web11.pdb
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\csc.exe
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\csc.exe.config
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\csc.rsp
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\csi.exe
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\csi.exe.config
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\csi.rsp
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.AppContext.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Collections.Immutable.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Console.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Globalization.Calendars.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.IO.Compression.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.IO.FileSystem.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Net.Http.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Net.Sockets.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Reflection.Metadata.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.ValueTuple.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Xml.XPath.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\vbc.exe
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\vbc.exe.config
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\vbc.rsp
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\VBCSCompiler.exe
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\roslyn\VBCSCompiler.exe.config
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\obj\Debug\web11.csproj.AssemblyReference.cache
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\obj\Debug\web11.csproj.CoreCompileInputs.cache
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\obj\Debug\web11.csproj.CopyComplete
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\obj\Debug\web11.dll
+D:\LapTrinhWebsite\thuchanh\web11\web11\web11\obj\Debug\web11.pdb

@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: aliceblue;
+    height: 80px;
+    padding: 28px;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Create navigation
+ */
+nav {
+    /* background-color: bisque; */
+    /* padding-right: 120px; */
+}
+
+.nav-list {
+    display: flex;
+    justify-content: right;
+    background-color: #cedcee;
+}
+
+.nav-list li {
+    position: relative;
+
+}
+
+.nav-list .subnav-list {
+    position: absolute;
+    display: none;
+    background-color: #fff;
+
+}
+
+nav .nav-list>li>a {
+    padding: 16px 24px;
+    display: block;
+    color: #200606;
+    font-weight: 800;
+    min-width: 200px;
+}
+
+.subnav-list li {
+    border-bottom: 0.5px solid #333;
+
+}
+
+.nav-list li:hover {
+    background-color: #9e9bcc;
+    color: black;
+
+}
+
+.subnav-list>li>a {
+    display: block;
+    padding: 12px 0px 12px 32px;
+    min-width: 200px;
+}
+
+.nav-list li:hover .subnav-list {
+    display: block;
+    box-shadow: 1px #ddd;
+}
+
+/*Create: section-content */
+.image {
+    background-color: #c4ffd6;
+
+}
+
+.search {
+    margin: 0 8px;
+}
+
+#text-input {
+    padding: 4px;
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
+
+#text-input:hover {
+    background-color: antiquewhite;
+}
+
+.button-search {
+    padding: 4px 12px;
+}
+
+
+.image {
+    border: 1px solid #333;
+    /* padding: 12px; */
+    /* width: 50%; */
+    padding-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    margin-top: 24px;
+    width: 85%;
+}
+
+.image:hover {
+    /* padding: 24px; */
+    font-weight: bold;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+/* Create footer 
+ */
+footer {
+    background-color: #cedcee;
+    color: red;
+    height: 28px;
+    text-align: center;
+    /* align-items: center; */
+}
+
+footer a {
+    line-height: 28px;
+    font-weight: bold;
+}
+
+/* Create Reponsive */
+@media (width<724px) {
+    nav {
+        position: relative;
+        margin-bottom: 180px;
+    }
+
+    .nav-list {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        width: 100%;
+    }
+
+    .nav-list li {
+        width: 100%;
+
+    }
+
+    nav .nav-list>li>a {
+        padding: 12px 24px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav-list li:hover .subnav-list {
+        background-color: antiquewhite;
+        z-index: 10;
+        width: 100%;
+    }
+
+    .search {
+        margin-left: 24px;
+        display: flex;
+    }
+
+    .section-search {
+        margin-left: 16px;
+    }
+
+}

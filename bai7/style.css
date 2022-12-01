@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.active {
+    display: block !important;
+}
+
+.none {
+    display: none;
+}
+
+.box {
+    min-width: 300px;
+    border: 4px solid #333;
+    padding: 12px;
+    position: relative;
+}
+
+.form-input {
+    display: none;
+    margin: 20px;
+    position: absolute;
+    top: 25px;
+}
+
+.data {
+    color: red;
+    position: absolute;
+    top: 80px;
+}
+
+.save {
+    display: none;
+}
+
+.form-button {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    justify-content: right;
+}
+
+.add,
+.save {
+    margin-right: 12px;
+}
+
+.add:hover,
+.save:hover,
+.cancel:hover {
+    cursor: pointer;
+}
