@@ -3,43 +3,110 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>bai1b</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bài khảo sát</title>
     <style>
-        .age {
+        body {
+            font-size: 17px;
+            margin: 0 60px;
+        }
+
+        #header {
+            width: 50%;
+            margin: 0 auto;
+            text-align: center;
+            border-bottom: 1px solid black;
+        }
+
+        ul li {
+            list-style: none;
+        }
+
+        #content .skill {
             margin-top: 20px;
-            margin-bottom: 10px;
+        }
+
+        #content .row {
+            width: 40%;
+            margin-left: 5%;
+            display: inline-block;
+        }
+
+        #content #khac {
+            margin-left: 8%;
+        }
+
+        #content #khac textarea {
+            width: 70%;
+            padding-left: 10px;
+            resize: vertical;
+            min-height: 40px;
+        }
+
+        footer {
+            margin-top: 30px;
+        }
+
+        #load {
+            width: 100%;
+            height: 10px;
+            margin-top: 20px;
+        }
+
+        #load button {
+            float: right;
+            margin-right: 20px;
         }
 
         .inf {
-            width: 70%;
-            margin-right: 180px;
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 15px 20px;
+            align-items: center;
+            max-width: 600px;
         }
 
-        .information-name {
-            margin-right: 50px;
+        .form-group {
+            display: contents;
         }
 
-        .information-age {
-            margin-right: 60px;
+        .form-group label {
+            text-align: left;
+            padding-left: 4px;
+            min-width: 100px;
         }
 
-        .information-sex {
-            margin-right: 50px;
+        .input-btn-name,
+        .input-btn-age,
+        .gender-options {
+            width: 100%;
+            display: flex;
+            align-items: center;
         }
 
-        .input-btn-name {
-            padding: 5px 10px;
-            /* margin-left: 40px; */
+        .input-btn-name,
+        .input-btn-age {
+            padding: 4px 8px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+
+        .gender-options {
+            gap: 10px;
+        }
+
+        .gender-options input[type="radio"] {
+            margin: 0 5px 0 0;
+        }
+
+        .gender-options label {
+            margin-right: 20px;
+            font-weight: normal;
         }
 
         .content-inf {
             display: flex;
-
-            justify-content: left;
-            flex-direction: row;
-
         }
 
         .submit {
@@ -50,90 +117,88 @@
 </head>
 
 <body>
-    <center>
-        <h1 style="text-transform:uppercase;">Khảo sát ý kiến</h1>
-        <p>V/V: Các kỹ năng cần có đối với sinh viên để thành công trong công việc</p>
-        <hr style="width: 50%;">
-    </center>
-    <p><b>Theo bạn kỹ năng nào là cần thiết nhất đối với bạn trong số các kỹ năng sau:</b></p>
-    <fieldset>
-        <legend>Kỹ năng mềm cần có</legend>
-        <section style="display: flex;">
-            <section style="padding:0 100px;">
-                <input type="checkbox" name="" id="">Kỹ năng đặt mục tiêu
-                <br>
-                <input type="checkbox" name="" id="">Sáng tạo trong công việc
-                <br>
-                <input type="checkbox" name="" id="">Biết lắng nghe và học tập những lời phê bình
-                <br>
-                <input type="checkbox" name="" id="">Giao tiếp hiệu quả
-                <br>
-                <input type="checkbox" name="" id="">Tự tin, năng động và biết lôi kéo người khác
-                <br>
-            </section>
-            <section style="padding:0 100px;">
-                <input type="checkbox" name="" id="">Kỹ năng làm việc đồng đội
-                <br>
-                <input type="checkbox" name="" id="">Kỹ năng khám phá và lãnh đạo bản thân
-                <br>
-                <input type="checkbox" name="" id="">Kỹ năng tổ chức công việc và quản lý thời gian
-                <br>
-                <input type="checkbox" name="" id="">Kỹ năng ra quyết định
-                <br>
-                <input type="checkbox" name="" id="">Kỹ năng giải quyết vấn đề
-                <br>
-            </section>
-        </section>
-        <section class="comment">
-            Ý kiến khác: <textarea name="text" cols="100" rows="3"></textarea>
-        </section>
-    </fieldset>
-    </fieldset>
-    <fieldset style="margin-top: 10px;">
-        <legend>Thông tin cá nhân</legend>
-        <section class="content-inf">
-            <section class="inf">
-                <section>
-                    <label class="information-name" for="test">
-                        Họ và tên </label>
-                    <input class="input-btn-name" type="text" value="" placeholder="Họ và tên"> <br>
+    <div id="header">
+        <h1>KHẢO SÁT Ý KIẾN</h1>
+        <p><b>V/V: Các kỹ năng cần có đối với sinh viên để thành công trong công việc</b></p>
+    </div>
+    <form id="content">
+        <p><b>Theo bạn kỹ năng nào là cần thiết đối với bạn trong số các kỹ năng sau:</b></p>
+        <div class="skill">
+            <fieldset>
+                <legend>Kỹ năng mềm cần có</legend>
+                <div class="row">
+                    <ul>
+                        <li><input type="checkbox" id="skill_1" name="skill_1" value="" />
+                            <label for="skill_1">Kỹ năng
+                                đặt mục tiêu</label>
+                        </li>
+                        <li><input type="checkbox" id="skill_2" name="skill_2" value="" /><label for="skill_2">Sáng tạo
+                                trong công việc</label></li>
+                        <li><input type="checkbox" id="skill_3" name="skill_3" value="" /><label for="skill_3">Biết lắng
+                                nghe và học tập những lời phê bình</label></li>
+                        <li><input type="checkbox" id="skill_4" name="skill_4" value="" /><label for="skill_4">Giao tiếp
+                                hiệu quả</label></li>
+                        <li><input type="checkbox" id="skill_5" name="skill_5" value="" /><label for="skill_5">Tự tin,
+                                năng động và biết lôi kéo người khác</label></li>
+                    </ul>
+                </div>
+                <div class="row">
+                    <ul>
+                        <li><input type="checkbox" id="skill_6" name="skill_6" value="" /><label for="skill_6">Kỹ năng
+                                làm việc đồng đội</label></li>
+                        <li><input type="checkbox" id="skill_7" name="skill_7" value="" /><label for="skill_7">Kỹ năng
+                                khám phá và lãnh đạo bản thân</label></li>
+                        <li><input type="checkbox" id="skill_8" name="skill_8" value="" /><label for="skill_8">Kỹ năng
+                                tổ chức công việc và quản lý thời gian</label></li>
+                        <li><input type="checkbox" id="skill_9" name="skill_9" value="" /><label for="skill_9">Kỹ năng
+                                đưa ra quyết định</label></li>
+                        <li><input type="checkbox" id="skill_10" name="skill_10" value="" /><label for="skill_10">Kỹ
+                                năng giải quyết vẫn đề</label></li>
+                    </ul>
+                </div>
+                <div id="khac">
+                    <label for="other-skills">Ý kiến khác:</label>
+                    <textarea id="other-skills" name="other-skills"></textarea>
+                </div>
+            </fieldset>
+        </div>
+        <div class="skill">
+            <fieldset>
+                <legend>Thông tin cá nhân</legend>
+                <section class="content-inf">
+                    <section class="inf">
+                        <section class="form-group">
+                            <label class="information-name" for="name">Họ và tên</label>
+                            <input class="input-btn-name" type="text" id="name" placeholder="Họ và tên">
+                        </section>
+                        <section class="form-group">
+                            <label class="information-age" for="age">Độ tuổi</label>
+                            <input class="input-btn-age" type="number" id="age" value="18" min="18" max="24">
+                        </section>
+                        <section class="form-group">
+                            <label class="information-sex" for="gender">Giới tính</label>
+                            <div class="gender-options">
+                                <input class="input-btn-sex1" type="radio" id="male" name="gender">
+                                <label for="male">Nam</label>
+                                <input class="input-btn-sex2" type="radio" id="female" name="gender">
+                                <label for="female">Nữ</label>
+                            </div>
+                        </section>
+                    </section>
+                    <section class="image2" style="margin: 0 300px;">
+                        <img src="./image/success.png" alt="success" style="width: 160px; height: 120px;">
+                    </section>
                 </section>
-                <section class="age" style="display: flex;">
-                    <label class="information-age" for="test">
-                        Độ tuổi
-                    </label>
-                    <input class="input-btn-age" type="number" value="18" min="18" max="24">
-                    <!-- <section><select name="" id="" value="" min="18" max="24">
-                            <option value="18">18-24</option>
-                    </section> -->
-                    <!-- </section> -->
-                </section>
-                <!-- <br> -->
-                <section>
-                    <label class="information-sex" for="test">
-                        Giới tính </label>
-                    <input class="input-btn-sex1" type="radio" value="" name="gender">
-                    <label for="">Nam</label>
-                    <input class="input-btn-sex2" type="radio" value="" name="gender">
-                    <label for="">Nữ</label>
-                </section>
-            </section>
-            <section class="image2" style="margin-right:100px ;">
-                <img src="./image/anh1.jpg" alt="" style=" width: 160px;
-                height: 120px;">
-            </section>
-
+            </fieldset>
+        </div>
+        <section class="submit" style="display:flex; justify-content: end; font-size: 14px;">
+            <a href="">Làm lại</a>/
+            <a href="">Gửi khảo sát</a>
         </section>
-    </fieldset>
-    <section class="submit" style="display:flex;">
-        <a href="">Làm lại</a>/
-        <a href="">Gửi khảo sát</a>
-    </section>
     </form>
-    <center>
-        <p>Cảm ơn bạn đã tham gia khảo sát!</p>
-    </center>
-
+    <footer>
+        <p style="text-align: center;">Cảm ơn bạn đã tham gia khảo sát!</p>
+    </footer>
 </body>
 
 </html>
